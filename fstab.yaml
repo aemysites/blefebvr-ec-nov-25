@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/blefebvr-ec-nov-25/
+    type: markup
